@@ -1,0 +1,16 @@
+.first{
+    text-align: center;
+    margin:10px;
+}
+body{
+    background-color: rgb(255, 255, 244);
+}
+table{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+table,td,tr{
+    border: 1px solid #444444;
+    padding: 10px;
+}
